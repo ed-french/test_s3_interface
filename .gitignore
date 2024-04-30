@@ -1,0 +1,5 @@
+credentials.py
+.venv/*
+credentialsaws.py
+.venvwin/*
+__pycache__/*
